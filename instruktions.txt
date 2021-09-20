@@ -7,4 +7,4 @@ new top2
 *and mix well
 * enjoy!
 
-new bottom
+new bottom2
